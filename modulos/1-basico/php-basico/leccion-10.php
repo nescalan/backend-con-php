@@ -1,10 +1,15 @@
 <?php
 
-echo "Hola todos, estoy empezando con PHP \n";
+echo "Declaraión de variables \n";
 
-$name = "Nelson";
-$lastName ="Escalante";
+$firstNumber = 8;
+$secondNumber = 7;
+$result;
+const PI = 3.14;
 
-// echo " No, no. Yo me llamo ", $name . " " . $lastName . "\n" ;
+$result = ($firstNumber * $secondNumber) + PI;
 
-echo "Yo me llamo $name $lastName \n";
+// var_dump($personas);
+print($result);
+
+echo "\n";
