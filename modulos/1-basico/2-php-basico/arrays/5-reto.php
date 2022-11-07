@@ -3,7 +3,7 @@
 
 // Declaration: Arrays
 $firstChallenge = [
-    "alunmno" => [
+    "alunmno1" => [
         "nombre" => "Nelson",
         "ocupacion" => "Ingeniero",
         "color" => "azul",
@@ -11,8 +11,8 @@ $firstChallenge = [
             "favoritas" => "Mexicana",
             "noFavoritas" => "India",
         ]
-    ]
-    "alumno" => [
+        ],
+    "alumno2" => [
         "nombre" => "Nelson",
         "ocupacion" => "Ingeniero",
         "color" => "azul",
