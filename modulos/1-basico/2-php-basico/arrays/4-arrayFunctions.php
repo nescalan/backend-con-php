@@ -11,5 +11,3 @@ echo "\n";
 
 $listaFrutasArreglo = explode(",", $listaFrutas);
 var_dump($listaFrutasArreglo);
-
-
